@@ -1,0 +1,324 @@
+[
+  {
+    "id": "fauxdana",
+    "name": "Fauxdana",
+    "target": "Verdana",
+    "repo": "muglug/fauxdana",
+    "revision": "9b42542baa6235d57dcb50a709c97ed4b340cc4d",
+    "source": "https://github.com/muglug/fauxdana",
+    "base": "DejaVu Sans",
+    "fonts": [
+      {
+        "path": "ttfs/Fauxdana-Regular.ttf",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "path": "ttfs/Fauxdana-Bold.ttf",
+        "weight": 700,
+        "style": "normal"
+      },
+      {
+        "path": "ttfs/Fauxdana-Italic.ttf",
+        "weight": 400,
+        "style": "italic"
+      },
+      {
+        "path": "ttfs/Fauxdana-BoldItalic.ttf",
+        "weight": 700,
+        "style": "italic"
+      }
+    ],
+    "licenses": [
+      "LICENSE"
+    ]
+  },
+  {
+    "id": "intos",
+    "name": "Intos",
+    "target": "Aptos",
+    "repo": "muglug/intos",
+    "revision": "fef9315c14da9e4b23b4c3cac8e718998d4e4736",
+    "source": "https://github.com/muglug/intos",
+    "base": "Inter",
+    "fonts": [
+      {
+        "path": "fonts/Intos-Regular.ttf",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "path": "fonts/Intos-Bold.ttf",
+        "weight": 700,
+        "style": "normal"
+      },
+      {
+        "path": "fonts/Intos-Italic.ttf",
+        "weight": 400,
+        "style": "italic"
+      },
+      {
+        "path": "fonts/Intos-BoldItalic.ttf",
+        "weight": 700,
+        "style": "italic"
+      }
+    ],
+    "licenses": [
+      "LICENSE.txt"
+    ]
+  },
+  {
+    "id": "intos-serif",
+    "name": "Intos Serif",
+    "target": "Aptos Serif",
+    "repo": "muglug/intos",
+    "revision": "fef9315c14da9e4b23b4c3cac8e718998d4e4736",
+    "source": "https://github.com/muglug/intos",
+    "base": "Gelasio",
+    "fonts": [
+      {
+        "path": "fonts/IntosSerif-Regular.ttf",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "path": "fonts/IntosSerif-Bold.ttf",
+        "weight": 700,
+        "style": "normal"
+      },
+      {
+        "path": "fonts/IntosSerif-Italic.ttf",
+        "weight": 400,
+        "style": "italic"
+      },
+      {
+        "path": "fonts/IntosSerif-BoldItalic.ttf",
+        "weight": 700,
+        "style": "italic"
+      }
+    ],
+    "licenses": [
+      "LICENSE.txt"
+    ]
+  },
+  {
+    "id": "intos-display",
+    "name": "Intos Display",
+    "target": "Aptos Display",
+    "repo": "muglug/intos",
+    "revision": "fef9315c14da9e4b23b4c3cac8e718998d4e4736",
+    "source": "https://github.com/muglug/intos",
+    "base": "Inter",
+    "fonts": [
+      {
+        "path": "fonts/IntosDisplay-Regular.ttf",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "path": "fonts/IntosDisplay-Bold.ttf",
+        "weight": 700,
+        "style": "normal"
+      },
+      {
+        "path": "fonts/IntosDisplay-Italic.ttf",
+        "weight": 400,
+        "style": "italic"
+      },
+      {
+        "path": "fonts/IntosDisplay-BoldItalic.ttf",
+        "weight": 700,
+        "style": "italic"
+      }
+    ],
+    "licenses": [
+      "LICENSE.txt"
+    ]
+  },
+  {
+    "id": "intos-narrow",
+    "name": "Intos Narrow",
+    "target": "Aptos Narrow",
+    "repo": "muglug/intos",
+    "revision": "fef9315c14da9e4b23b4c3cac8e718998d4e4736",
+    "source": "https://github.com/muglug/intos",
+    "base": "Inter",
+    "fonts": [
+      {
+        "path": "fonts/IntosNarrow-Regular.ttf",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "path": "fonts/IntosNarrow-Bold.ttf",
+        "weight": 700,
+        "style": "normal"
+      },
+      {
+        "path": "fonts/IntosNarrow-Italic.ttf",
+        "weight": 400,
+        "style": "italic"
+      },
+      {
+        "path": "fonts/IntosNarrow-BoldItalic.ttf",
+        "weight": 700,
+        "style": "italic"
+      }
+    ],
+    "licenses": [
+      "LICENSE.txt"
+    ]
+  },
+  {
+    "id": "carlito-light",
+    "name": "Carlito Light",
+    "target": "Calibri Light",
+    "repo": "muglug/lato-source",
+    "revision": "70ca4aaeece201367378f3f903530f62d19dcc4d",
+    "source": "https://github.com/muglug/lato-source/tree/master/build/Carlito",
+    "base": "Lato",
+    "fonts": [
+      {
+        "path": "build/Carlito/Carlito-Light.ttf",
+        "weight": 300,
+        "style": "normal"
+      },
+      {
+        "path": "build/Carlito/Carlito-LightItalic.ttf",
+        "weight": 300,
+        "style": "italic"
+      }
+    ],
+    "licenses": [
+      "LICENSE.txt"
+    ]
+  },
+  {
+    "id": "carlito",
+    "name": "Carlito",
+    "target": "Calibri",
+    "repo": "googlefonts/carlito",
+    "revision": "3a810cab78ebd6e2e4eed42af9e8453c4f9b850a",
+    "source": "https://github.com/googlefonts/carlito",
+    "base": "Lato",
+    "fonts": [
+      {
+        "path": "fonts/ttf/Carlito-Regular.ttf",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "path": "fonts/ttf/Carlito-Bold.ttf",
+        "weight": 700,
+        "style": "normal"
+      },
+      {
+        "path": "fonts/ttf/Carlito-Italic.ttf",
+        "weight": 400,
+        "style": "italic"
+      },
+      {
+        "path": "fonts/ttf/Carlito-BoldItalic.ttf",
+        "weight": 700,
+        "style": "italic"
+      }
+    ],
+    "licenses": [
+      "OFL.txt"
+    ]
+  },
+  {
+    "id": "arimo",
+    "name": "Arimo",
+    "target": "Arial",
+    "repo": "muglug/Arimo",
+    "revision": "2e32a3ecf662eff8f6f4500a9192fd6130b9beec",
+    "source": "https://github.com/muglug/Arimo",
+    "base": "Google Fonts\u2019 Arimo",
+    "fonts": [
+      {
+        "path": "fonts/ttf/Arimo-Regular.ttf",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "path": "fonts/ttf/Arimo-Bold.ttf",
+        "weight": 700,
+        "style": "normal"
+      },
+      {
+        "path": "fonts/ttf/Arimo-Italic.ttf",
+        "weight": 400,
+        "style": "italic"
+      },
+      {
+        "path": "fonts/ttf/Arimo-BoldItalic.ttf",
+        "weight": 700,
+        "style": "italic"
+      }
+    ],
+    "licenses": [
+      "OFL.txt"
+    ]
+  },
+  {
+    "id": "hindoe-ui",
+    "name": "Hindoe UI",
+    "target": "Segoe UI",
+    "repo": "muglug/hindoe-ui",
+    "revision": "865e07b046f4b4f9a9900a711e76aaf372d496d7",
+    "source": "https://github.com/muglug/hindoe-ui",
+    "base": "Hind and Selawik",
+    "fonts": [
+      {
+        "path": "dist/ttf/HindoeUI-Regular.ttf",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "path": "dist/ttf/HindoeUI-Bold.ttf",
+        "weight": 700,
+        "style": "normal"
+      }
+    ],
+    "licenses": [
+      "LICENSE.txt",
+      "licenses/Hind-OFL.txt",
+      "licenses/Selawik-OFL.txt"
+    ]
+  },
+  {
+    "id": "outfit-gothic",
+    "name": "Outfit Gothic",
+    "target": "Century Gothic",
+    "repo": "muglug/Outfit-Fonts",
+    "revision": "8df2c26472feb206899ec5ba83a6c41592960b85",
+    "source": "https://github.com/muglug/Outfit-Fonts/tree/main/fonts/ttf",
+    "base": "Outfit",
+    "fonts": [
+      {
+        "path": "fonts/ttf/OutfitGothic-Regular.ttf",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "path": "fonts/ttf/OutfitGothic-Bold.ttf",
+        "weight": 700,
+        "style": "normal"
+      },
+      {
+        "path": "fonts/ttf/OutfitGothic-Italic.ttf",
+        "weight": 400,
+        "style": "italic"
+      },
+      {
+        "path": "fonts/ttf/OutfitGothic-BoldItalic.ttf",
+        "weight": 700,
+        "style": "italic"
+      }
+    ],
+    "licenses": [
+      "OFL.txt"
+    ]
+  }
+]
